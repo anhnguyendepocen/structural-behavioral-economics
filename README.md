@@ -2,6 +2,17 @@
 
 ... course on structural behavioral economics
 
+
+## QAQR Report
+
+The acronym QAQR stands for **Q**uote, **A**rgument, **Q**uestion, **R**eflection, and characterizes the four desired outcomes of the report. You should write a report (about 2-3 pages long), where you 
+- Present a selection of one or more main core arguments from the required literature
+- Summarize the main arguments
+- Formulate a question / Discussion points
+- Reflect on the literature and how it is related to topics covered in lecture
+
+As the lecture proceeds, you will be assigned one or more articles about which you should write a QAQR report about. An example report will be provided during lectures.
+
 ## Sargent reading group
 
 We adopt a slightly modified verision of the [Sargent reading group](https://readinggroup-fe208.firebaseapp.com/reading_group.html).
