@@ -1,0 +1,19 @@
+name: hc_structural_behavioral_economics
+
+channels:
+- conda
+- conda-forge
+
+dependencies:
+- python=3.7
+- numpy
+- pandas
+- flake8
+- pytest
+- pandas 
+- jupyterlab
+- matplotlib
+- seaborn
+- jupyter
+- pip
+- pygraphviz
