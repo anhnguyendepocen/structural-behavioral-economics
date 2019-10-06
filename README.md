@@ -2,29 +2,8 @@
 
 ... course on structural behavioral economics
 
+We build the course around the recent chapter by [Stefanoe DellaVigna](https://eml.berkeley.edu/~sdellavi/index.html) in the [Handbook of Behavioral Economics](https://www.sciencedirect.com/handbook/handbook-of-behavioral-economics-applications-and-foundations-1).
 
-## QAQR Report
+* DellaVigna, S. (2018). [Structural behavioral economics](https://www.sciencedirect.com/science/article/pii/S235223991830006X/pdfft?md5=842415f879664afe0b5b805c557ef7b8&pid=1-s2.0-S235223991830006X-main.pdf). In Bernheim B. D. , DellaVigna, S., and  Laibson, D., editors, *Handbook of Behavioral Economics*, volume 1, pages 613-723. North Holland, Amsterdam, Netherlands.
 
-The acronym QAQR stands for **Q**uote, **A**rgument, **Q**uestion, **R**eflection, and characterizes the four desired outcomes of the report. You should write a report (about 2-3 pages long), where you 
-- Present a selection of one or more main core arguments from the required literature
-- Summarize the main arguments
-- Formulate a question / Discussion points
-- Reflect on the literature and how it is related to topics covered in lecture
-
-As the lecture proceeds, you will be assigned one or more articles about which you should write a QAQR report about. An example report will be provided during lectures.
-
-## Sargent reading group
-
-We adopt a slightly modified verision of the [Sargent reading group](https://readinggroup-fe208.firebaseapp.com/reading_group.html).
-
-* To attend the session you **must** submit a paper.
-
-* Regular attendance is the norm.
-
-* Every week each student submits a paper of their choice. Please submit a paper that you think is good. Eisenhauer reserves the right to veto a paper that he thinks is not suitable -- after such a veto, you will be asked to submit an alternative.
-
-* From the submitted papers, Sargent chooses one to be given as 20-minute presentations (by those who submitted them). 20 minute presenters should prepare slides.
-
-* 20 minute presenters will be known by noon on Monday so that they have time to prepare.
-
-* Students whose submissions are not chosen for 20 minute presentations are exposed to being called upon for a 5 minute presentation (no slides) during the reading group meeting.
+However, the focus will be on the implementation, exploration, and estimation of structural behavioral models. We will make heavy use of [Python](https://www.python.org) and its [SciPy ecosystem](https://www.scipy.org) and [Jupyter Notebooks](https://jupyter.org) throughout the course. We set up a proper software engineering workflow to ensure sound implementation and reproducibility building on [GitHub](https://github.com). Please see [here](https://github.com/HumanCapitalAnalysis/general-resources) for some introductory resources to all.
