@@ -8,7 +8,7 @@ However, the focus will be on the implementation, exploration, and estimation of
 
 ## Neoclassical baseline
 
-We will discuss the recent developments in structural behavioral economics using the seminar paper by Keane & Wolpin (1997) and the `respy` research code to contrast it to the neoclassical approach.
+We will discuss the recent developments in structural behavioral economics using the seminal paper by Keane & Wolpin (1997) and the `respy` research code to contrast it to the neoclassical approach.
 
 * Keane, M. P., & Wolpin, K. I. (1997). [The career decisions of young men.](https://www.journals.uchicago.edu/doi/abs/10.1086/262080) *Journal of Political Economy, 105*(3), 473–522.
 
