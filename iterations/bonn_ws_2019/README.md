@@ -34,16 +34,12 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 
 We adopt a reading group approach for this year's topics course. We will at least have on student presentation (20 minutes, up to 10 slides) and one lightning talk (5 minutes, no slides) each session. You can access the sign-up sheet [here](https://docs.google.com/spreadsheets/d/1bwus9EM5MYBmIk9RZQ8_t04MOpBmDta_kDMGuRIjvCg/edit?usp=sharing).
 
-We strongly encourage you to use the framework of an **QAQR** report in preparation for the reading group.
+We strongly encourage you to use the framework of an **QAQR** report in preparation for the reading group. The acronym stands for **Q**uote, **A**rgument, **Q**uestion, **R**eflection, and characterizes the four desired outcomes of the report. You should write a report (about 2-3 pages long), where you do the following:
 
-### QAQR Report
-
-The acronym QAQR stands for **Q**uote, **A**rgument, **Q**uestion, **R**eflection, and characterizes the four desired outcomes of the report. You should write a report (about 2-3 pages long), where you ...
-
-- present a selection of one or more main core arguments from the required literature.
-- summarize the main arguments.
-- formulate a question / discussion points.
-- reflect on the literature and how it is related to topics covered in lecture.
+- present a selection of one or more main core arguments from the required literature
+- summarize the main arguments
+- formulate a question / discussion points
+- reflect on the literature and how it is related to topics covered in lecture
 
 # Student project
 
