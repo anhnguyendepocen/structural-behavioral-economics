@@ -38,7 +38,7 @@ We strongly encourage you to use the framework of an QAQR report in preparation 
 
 ### QAQR Report
 
-The acronym QAQR stands for **Q**uote, **A**rgument, **Q**uestion, **R**eflection**, and characterizes the four desired outcomes of the report. You should write a report (about 2-3 pages long), where you ...
+The acronym QAQR stands for **Q**uote, **A**rgument, **Q**uestion, **R**eflection, and characterizes the four desired outcomes of the report. You should write a report (about 2-3 pages long), where you ...
 
 - present a selection of one or more main core arguments from the required literature.
 - summarize the main arguments.
