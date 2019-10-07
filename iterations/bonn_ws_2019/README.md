@@ -11,11 +11,11 @@ We meet Mondays between 14:15-15:45 in SR 0.017.
 
 | Date      | Topic                                                  |
 | ----------| ------------------------------------------------------ |
-| 07/10/19  | Introduction                                           |
-| 14/10/19  |                                                        |
-| 21/10/19  |                                                        |
-| 28/10/19  |                                                        |
-| 04/11/19  |                                                        |
+| 07/10/19  | Introduction, Keane & Wolpin (1997)                    |
+| 14/10/19  | `respy`                                                |
+| 21/10/19  | DellaVigna (2018)                                      |
+| 28/10/19  | DellaVigna (2018)                                      |
+| 04/11/19  | ... to be determined by popular demand                 |
 | 11/11/19  |                                                        |
 | 18/11/19  |                                                        |
 | 25/11/19  |                                                        |
