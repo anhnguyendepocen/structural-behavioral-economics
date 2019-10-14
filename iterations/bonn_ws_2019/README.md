@@ -36,7 +36,7 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 
 **Student contribution**
 
-* https://www.nber.org/papers/w22043.pdf
+* Rao, G., DellaVigna, S., List, J., & Malmendier, U. (2016). [Estimating Social Preferences and Gift Exchange at Work](https://scholar.harvard.edu/files/rao/files/socialpreferencestowardsemployerfeb16.pdf). Working Paper.
 
 # Reading group
 
