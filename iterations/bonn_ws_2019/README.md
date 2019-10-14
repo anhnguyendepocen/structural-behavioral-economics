@@ -34,9 +34,9 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 
 * respy (2018). *respy: A Python package for the simulation and estimation of a prototypical finite-horizon dynamic discrete choice model.* Retrieved from http://doi.org/10.5281/zenodo.1189209
 
-**Student contribution**
+**Student contribution(s)**
 
-* Rao, G., DellaVigna, S., List, J., & Malmendier, U. (2016). [Estimating Social Preferences and Gift Exchange at Work](https://scholar.harvard.edu/files/rao/files/socialpreferencestowardsemployerfeb16.pdf). Working Paper.
+* Rao, G., DellaVigna, S., List, J., & Malmendier, U. (2019). [Estimating Social Preferences and Gift Exchange at Work](https://eml.berkeley.edu/~sdellavi/wp/SocialPreferencesWorkJun19.pdf). Working Paper.
 
 # Reading group
 
