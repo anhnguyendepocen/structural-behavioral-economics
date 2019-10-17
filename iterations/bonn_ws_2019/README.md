@@ -46,7 +46,7 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 
 **Student contribution(s)**
 
-* Bajari, P., & Hortaçsu, A. (2005). [Are structural estimates of auction models reasonable? Evidence from experimental data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.467.2342&rep=rep1&type=pdf). *Journal of Political Economy, 113*(4), 703-741.
+* Bajari, P., & Hortaçsu, A. (2005). [Are structural estimates of auction models reasonable? Evidence from experimental data](https://www.jstor.org/stable/pdf/10.1086/432138.pdf?refreqid=excelsior%3Afa9e82d70a620a4110138fd0f369a95a). *Journal of Political Economy, 113*(4), 703-741.
 
 ### Week 3
 
