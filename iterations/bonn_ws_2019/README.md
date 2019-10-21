@@ -51,4 +51,4 @@ We strongly encourage you to use the framework of an **QAQR** report in preparat
 
 # Student project
 
-Each student is expected to implement, estimate, and explore a structural behavioral model of their choice. The deadline is noon the February, 1st. You can get started on your repository [here](https://classroom.github.com/g/m2wprg0W).
+Each student is expected to implement, estimate, and explore a structural behavioral model of their choice. The deadline is noon on February, 1st. A useful list of publications using structural behavioral models is provided in the Appendix of DellaVigna (2018). You can get started on your repository [here](https://classroom.github.com/g/m2wprg0W).
