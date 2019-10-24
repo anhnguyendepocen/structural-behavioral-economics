@@ -64,6 +64,16 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 
 * Pagel, M. (2017). [Expectations-based reference-dependent life-cycle consumption](http://www.restud.com/wp-content/uploads/2017/01/MS19327manuscript.pdf). *The Review of Economic Studies, 84*(2), 885–934.
 
+### Week 5
+
+**Joint discussion**
+
+* ...
+
+**Student contribution(s)**
+
+* Todd, P., & Wolpin, K. (2006). [Assessing the impact of a school subsidy program in Mexico: using a social experiment to validate a dynamic behavioral model of child schooling and fertility](http://www.ecn.ulaval.ca/guy_lacroix/Cours/ECN-7180/Obligatoires/Todd_Wolpin.pdf). *The American Economic Review, 96*(5), 1384-1417. 
+
 # Reading group
 
 We adopt a reading group approach for this year's topics course. We will at least have on student presentation (20 minutes, up to 10 slides) and one lightning talk (5 minutes, no slides) each session. You can access the sign-up sheet [here](https://docs.google.com/spreadsheets/d/1bwus9EM5MYBmIk9RZQ8_t04MOpBmDta_kDMGuRIjvCg/edit?usp=sharing).
