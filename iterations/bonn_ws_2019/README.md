@@ -62,7 +62,7 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 
 **Student contribution(s)**
 
-* Pagel, M. (2017). [Expectations-based reference-dependent life-cycle consumption](http://www.restud.com/wp-content/uploads/2017/01/MS19327manuscript.pdf). *The Review of Economic Studies, 84*(2), 885–934.
+* Handel, B., & Kolstad, J. (2015). [Health insurance for "humans": information frictions, plan choice, and consumer welfare](https://pdfs.semanticscholar.org/d52c/5f66b071bc6fcc1ddd4a8cb0bcaf20acf663.pdf). *American Economic Review, 105*(8), 2449-2500.
 
 ### Week 5
 
