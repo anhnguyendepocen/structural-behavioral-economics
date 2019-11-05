@@ -87,4 +87,10 @@ We strongly encourage you to use the framework of an **QAQR** report in preparat
 
 # Student project
 
-Each student is expected to implement, estimate, and explore a structural behavioral model of their choice. The deadline is noon on February, 1st. A useful list of publications using structural behavioral models is provided in the Appendix of DellaVigna (2018). You can get started on your repository [here](https://classroom.github.com/g/m2wprg0W).
+We expect each student to implement, estimate, and explore a structural behavioral model of their choice. The deadline is noon on February 1st. The Appendix of DellaVigna (2018) provides a useful list of publications. You can get started on your repository [here](https://classroom.github.com/g/m2wprg0W). Based on our discussions, we want to use the project to assess the uncertainties in the model analysis and the sensitivity of conclusions. Here are a couple of  references to get you started:
+
+* https://www.nap.edu/catalog/13395/assessing-the-reliability-of-complex-models-mathematical-and-statistical-foundations
+
+* https://www.amazon.de/dp/B00AKE1XR0/ref=sr_1_fkmr0_1?keywords=oberkampf+verificatoin+validierung&qid=1572940019&sr=8-1-fkmr0
+
+* https://www.amazon.de/dp/0470059974/ref=sr_1_5?keywords=sensitivity+analysis&qid=1572940145&sr=8-5
