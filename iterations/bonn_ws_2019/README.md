@@ -15,9 +15,9 @@ We meet Mondays between 14:15-15:45 in SR 0.017.
 | 14/10/19  | `respy`                                                |
 | 21/10/19  | DellaVigna (2018)                                      |
 | 28/10/19  | DellaVigna (2018)                                      |
-| 04/11/19  | ... to be determined by popular demand                 |
+| 04/11/19  | DellaVigna (2018)                                      |
 | 11/11/19  |                                                        |
-| 18/11/19  |                                                        |
+| 18/11/19  | ... to be determined by popular demand                                                      |
 | 25/11/19  |                                                        |
 | 02/12/19  |                                                        |
 | 09/12/19  |                                                        |
@@ -73,6 +73,16 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 **Student contribution(s)**
 
 * Todd, P., & Wolpin, K. (2006). [Assessing the impact of a school subsidy program in Mexico: using a social experiment to validate a dynamic behavioral model of child schooling and fertility](http://www.ecn.ulaval.ca/guy_lacroix/Cours/ECN-7180/Obligatoires/Todd_Wolpin.pdf). *The American Economic Review, 96*(5), 1384-1417. 
+
+### Week 6
+
+**Joint discussion**
+
+* Keane, M. (2010). [Structural vs. atheoretic approaches to econometrics](https://www.sciencedirect.com/science/article/pii/S0304407609001948). *Journal of Econometrics, 156*(1), 3-20.
+
+**Student contribution(s)**
+
+* Allcott, H., & Taubinsky, D. (2015). [Evaluating behaviorally motivated policy: experimental evidence from the lightbulb market](https://www.povertyactionlab.org/sites/default/files/publications/898%20Lightbulb%20Paradox%20Feb2015.pdf). *American Economic Review, 105*(8), 2501-38.
 
 # Reading group
 
