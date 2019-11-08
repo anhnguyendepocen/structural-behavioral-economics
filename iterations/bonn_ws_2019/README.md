@@ -16,8 +16,8 @@ We meet Mondays between 14:15-15:45 in SR 0.017.
 | 21/10/19  | DellaVigna (2018)                                      |
 | 28/10/19  | DellaVigna (2018)                                      |
 | 04/11/19  | DellaVigna (2018)                                      |
-| 11/11/19  |                                                        |
-| 18/11/19  | ... to be determined by popular demand                                                      |
+| 11/11/19  | Keane (2010)                                           |
+| 18/11/19  | ... to be determined by popular demand                 |
 | 25/11/19  |                                                        |
 | 02/12/19  |                                                        |
 | 09/12/19  |                                                        |
