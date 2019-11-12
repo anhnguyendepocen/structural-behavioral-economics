@@ -32,7 +32,7 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 
 **Joint discussion**
 
-* Keane, M. P., & Wolpin, K. I. (1997). [The Career decisions of young men.](https://www.journals.uchicago.edu/doi/abs/10.1086/262080) *Journal of Political Economy, 105*(3), 473–522.
+* Keane, M. P., & Wolpin, K. I. (1997). [The career decisions of young men.](https://www.journals.uchicago.edu/doi/abs/10.1086/262080) *Journal of Political Economy, 105*(3), 473–522.
 
 ### Week 2
 
@@ -62,7 +62,7 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 
 **Student contribution(s)**
 
-* Handel, B., & Kolstad, J. (2015). [Health insurance for "humans": information frictions, plan choice, and consumer welfare](https://pdfs.semanticscholar.org/d52c/5f66b071bc6fcc1ddd4a8cb0bcaf20acf663.pdf). *American Economic Review, 105*(8), 2449-2500.
+* Handel, B., & Kolstad, J. (2015). [Health insurance for "humans": Information frictions, plan choice, and consumer welfare](https://pdfs.semanticscholar.org/d52c/5f66b071bc6fcc1ddd4a8cb0bcaf20acf663.pdf). *American Economic Review, 105*(8), 2449-2500.
 
 ### Week 5
 
@@ -72,7 +72,7 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 
 **Student contribution(s)**
 
-* Todd, P., & Wolpin, K. (2006). [Assessing the impact of a school subsidy program in Mexico: using a social experiment to validate a dynamic behavioral model of child schooling and fertility](http://www.ecn.ulaval.ca/guy_lacroix/Cours/ECN-7180/Obligatoires/Todd_Wolpin.pdf). *The American Economic Review, 96*(5), 1384-1417. 
+* Todd, P., & Wolpin, K. (2006). [Assessing the impact of a school subsidy program in Mexico: Using a social experiment to validate a dynamic behavioral model of child schooling and fertility](http://www.ecn.ulaval.ca/guy_lacroix/Cours/ECN-7180/Obligatoires/Todd_Wolpin.pdf). *The American Economic Review, 96*(5), 1384-1417. 
 
 ### Week 6
 
@@ -82,7 +82,7 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 
 **Student contribution(s)**
 
-* Allcott, H., & Taubinsky, D. (2015). [Evaluating behaviorally motivated policy: experimental evidence from the lightbulb market](https://www.povertyactionlab.org/sites/default/files/publications/898%20Lightbulb%20Paradox%20Feb2015.pdf). *American Economic Review, 105*(8), 2501-38.
+* Allcott, H., & Taubinsky, D. (2015). [Evaluating behaviorally motivated policy: Experimental evidence from the lightbulb market](https://www.povertyactionlab.org/sites/default/files/publications/898%20Lightbulb%20Paradox%20Feb2015.pdf). *American Economic Review, 105*(8), 2501-38.
 
 # Reading group
 
