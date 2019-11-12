@@ -12,7 +12,7 @@ However, the focus will be on the implementation, exploration, and estimation of
 
 We will discuss the recent developments in structural behavioral economics using the seminal paper by Keane & Wolpin (1997) and the `respy` research code to contrast it to the neoclassical approach.
 
-* Keane, M. P., & Wolpin, K. I. (1997). [The Career decisions of young men.](https://www.journals.uchicago.edu/doi/abs/10.1086/262080) *Journal of Political Economy, 105*(3), 473–522.
+* Keane, M. P., & Wolpin, K. I. (1997). [The career decisions of young men.](https://www.journals.uchicago.edu/doi/abs/10.1086/262080) *Journal of Political Economy, 105*(3), 473–522.
 
 * respy (2018). *respy: A Python package for the simulation and estimation of a prototypical finite-horizon dynamic discrete choice model.* Retrieved from http://doi.org/10.5281/zenodo.1189209
 
