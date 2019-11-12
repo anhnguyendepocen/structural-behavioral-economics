@@ -99,8 +99,8 @@ We strongly encourage you to use the framework of an **QAQR** report in preparat
 
 We expect each student to implement, estimate, and explore a structural behavioral model of their choice. The deadline is noon on February 1st. The Appendix of DellaVigna (2018) provides a useful list of publications. You can get started on your repository [here](https://classroom.github.com/g/m2wprg0W). Based on our discussions, we want to use the project to assess the uncertainties in the model analysis and the sensitivity of conclusions. Here are a couple of  references to get you started:
 
-* https://www.nap.edu/catalog/13395/assessing-the-reliability-of-complex-models-mathematical-and-statistical-foundations
+* National Research Council. (2012). [Assessing the reliability of complex models: Mathematical and statistical foundations of verification, validation, and uncertainty quantification](https://www.nap.edu/catalog/13395/assessing-the-reliability-of-complex-models-mathematical-and-statistical-foundations). The National Academies Press, Washington, DC.
 
-* https://www.amazon.de/dp/B00AKE1XR0/ref=sr_1_fkmr0_1?keywords=oberkampf+verificatoin+validierung&qid=1572940019&sr=8-1-fkmr0
+* Oberkampf, W., & Roy, C. (2010). [Verification and validation in scientific computing](https://www.amazon.de/dp/B00AKE1XR0/ref=sr_1_fkmr0_1?keywords=oberkampf+verificatoin+validierung&qid=1572940019&sr=8-1-fkmr0). Cambridge University Press, Cambridge.
 
-* https://www.amazon.de/dp/0470059974/ref=sr_1_5?keywords=sensitivity+analysis&qid=1572940145&sr=8-5
+* Saltelli, A., Ratto, M., Terry, A., Campolongo, F., Cariboni, J., Gatelli, D., Saisana, M., & Tarantola, S. (2008). [Global sensitivity analysis. The primer](http://www.andreasaltelli.eu/file/repository/A_Saltelli_Marco_Ratto_Terry_Andres_Francesca_Campolongo_Jessica_Cariboni_Debora_Gatelli_Michaela_Saisana_Stefano_Tarantola_Global_Sensitivity_Analysis_The_Primer_Wiley_Interscience_2008_.pdf). John Wiley & Sons Ltd, Chichester, England.
