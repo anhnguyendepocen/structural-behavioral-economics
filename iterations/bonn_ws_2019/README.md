@@ -17,7 +17,7 @@ We meet Mondays between 14:15-15:45 in SR 0.017.
 | 28/10/19  | DellaVigna (2018)                                      |
 | 04/11/19  | DellaVigna (2018)                                      |
 | 11/11/19  | Keane (2010)                                           |
-| 18/11/19  | ... to be determined by popular demand                 |
+| 18/11/19  | Maximum likelihood estimation                          |
 | 25/11/19  |                                                        |
 | 02/12/19  |                                                        |
 | 09/12/19  |                                                        |
@@ -72,7 +72,7 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 
 **Student contribution(s)**
 
-* Todd, P., & Wolpin, K. (2006). [Assessing the impact of a school subsidy program in Mexico: Using a social experiment to validate a dynamic behavioral model of child schooling and fertility](http://www.ecn.ulaval.ca/guy_lacroix/Cours/ECN-7180/Obligatoires/Todd_Wolpin.pdf). *The American Economic Review, 96*(5), 1384-1417. 
+* Todd, P., & Wolpin, K. (2006). [Assessing the impact of a school subsidy program in Mexico: Using a social experiment to validate a dynamic behavioral model of child schooling and fertility](http://www.ecn.ulaval.ca/guy_lacroix/Cours/ECN-7180/Obligatoires/Todd_Wolpin.pdf). *The American Economic Review, 96*(5), 1384-1417.
 
 ### Week 6
 
@@ -83,6 +83,12 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 **Student contribution(s)**
 
 * Allcott, H., & Taubinsky, D. (2015). [Evaluating behaviorally motivated policy: Experimental evidence from the lightbulb market](https://www.povertyactionlab.org/sites/default/files/publications/898%20Lightbulb%20Paradox%20Feb2015.pdf). *American Economic Review, 105*(8), 2501-38.
+
+### Week 7
+
+**Joint discussion**
+
+We discuss applied maximum likelihood estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
 
 # Reading group
 
