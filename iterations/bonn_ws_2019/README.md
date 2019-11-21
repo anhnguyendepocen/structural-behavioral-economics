@@ -18,7 +18,7 @@ We meet Mondays between 14:15-15:45 in SR 0.017.
 | 04/11/19  | DellaVigna (2018)                                      |
 | 11/11/19  | Keane (2010)                                           |
 | 18/11/19  | Maximum likelihood estimation                          |
-| 25/11/19  |                                                        |
+| 25/11/19  | Maximum likelihood estimation                          |
 | 02/12/19  |                                                        |
 | 09/12/19  |                                                        |
 | 16/12/19  |                                                        |
@@ -89,6 +89,18 @@ Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavio
 **Joint discussion**
 
 We discuss applied maximum likelihood estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
+
+### Week 8
+
+**Joint discussion**
+
+We continue to discuss applied maximum likelihood estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
+
+**Lightning talk**
+
+* Dickstein, M. J., & Morales, E. (2018). [What do exporters know?](https://economics.nd.edu/assets/215426/paper_dicksteinmorales_0916.pdf). *The Quarterly Journal of Economics, 133*(4), 1753–1801.
+
+* Conlin, M., O'Donoghue, T., & Vogelsang, T. J. (2007). [Projection bias in catalog orders](https://msu.edu/~conlinmi/AER2007.pdf). *American Economic Review, 97*(4), 1217-1249.
 
 # Reading group
 
