@@ -26,7 +26,7 @@ We meet Mondays between 14:15-15:45 in SR 0.017.
 | 20/01/20  |                                                        |
 | 27/01/20  |                                                        |
 
-Please see the [here](https://github.com/HumanCapitalAnalysis/structural-behavioral-economics/blob/master/iterations/bonn_ws_2019/00_course_overview.pdf) for a brief discussion of some administrative issues.
+Please see [here](https://github.com/HumanCapitalAnalysis/structural-behavioral-economics/blob/master/iterations/bonn_ws_2019/00_course_overview.pdf) for a brief discussion of some administrative issues.
 
 ### Week 1
 
