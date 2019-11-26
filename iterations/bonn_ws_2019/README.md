@@ -9,22 +9,22 @@ We meet Mondays between 14:15-15:45 in SR 0.017.
 
 ## Lecture plan
 
-| Date      | Topic                                                  |
-| ----------| ------------------------------------------------------ |
-| 07/10/19  | Introduction, Keane & Wolpin (1997)                    |
-| 14/10/19  | `respy`                                                |
-| 21/10/19  | DellaVigna (2018)                                      |
-| 28/10/19  | DellaVigna (2018)                                      |
-| 04/11/19  | DellaVigna (2018)                                      |
-| 11/11/19  | Keane (2010)                                           |
-| 18/11/19  | Maximum likelihood estimation                          |
-| 25/11/19  | Maximum likelihood estimation                          |
-| 02/12/19  |                                                        |
-| 09/12/19  |                                                        |
-| 16/12/19  |                                                        |
-| 13/01/20  |                                                        |
-| 20/01/20  |                                                        |
-| 27/01/20  |                                                        |
+| Week | Date      | Topic                                                  |
+| -----| ----------| ------------------------------------------------------ |
+|  1   | 07/10/19  | Introduction, Keane & Wolpin (1997)                    |
+|  2   | 14/10/19  | `respy`                                                |
+|  3   | 21/10/19  | DellaVigna (2018)                                      |
+|  4   | 28/10/19  | DellaVigna (2018)                                      |
+|  5   | 04/11/19  | DellaVigna (2018)                                      |
+|  6   | 11/11/19  | Keane (2010)                                           |
+|  7   | 18/11/19  | Maximum likelihood estimation                          |
+|  8   | 25/11/19  | Maximum likelihood estimation                          |
+|  9   | 02/12/19  |                                                        |
+|  10  | 09/12/19  |                                                        |
+|  11  | 16/12/19  |                                                        |
+|  12  | 13/01/20  |                                                        |
+|  13  | 20/01/20  |                                                        |
+|  14  | 27/01/20  |                                                        |
 
 Please see [here](https://github.com/HumanCapitalAnalysis/structural-behavioral-economics/blob/master/iterations/bonn_ws_2019/00_course_overview.pdf) for a brief discussion of some administrative issues.
 
