@@ -19,7 +19,7 @@ We meet Mondays between 14:15-15:45 in SR 0.017.
 |  6   | 11/11/19  | Keane (2010)                                           |
 |  7   | 18/11/19  | Maximum likelihood estimation                          |
 |  8   | 25/11/19  | Maximum likelihood estimation                          |
-|  9   | 02/12/19  |                                                        |
+|  9   | 02/12/19  | Maximum likelihood estimation                          |
 |  10  | 09/12/19  |                                                        |
 |  11  | 16/12/19  |                                                        |
 |  12  | 13/01/20  |                                                        |
@@ -96,11 +96,17 @@ We discuss applied maximum likelihood estimation using the `respy` package. The 
 
 We continue to discuss applied maximum likelihood estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
 
-**Lightning talk**
+**Lightning talks**
 
 * Dickstein, M. J., & Morales, E. (2018). [What do exporters know?](https://economics.nd.edu/assets/215426/paper_dicksteinmorales_0916.pdf) *The Quarterly Journal of Economics, 133*(4), 1753–1801.
 
 * Conlin, M., O'Donoghue, T., & Vogelsang, T. J. (2007). [Projection bias in catalog orders](https://msu.edu/~conlinmi/AER2007.pdf). *American Economic Review, 97*(4), 1217-1249.
+
+### Week 9
+
+**Joint discussion**
+
+We continue to discuss applied maximum likelihood estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
 
 # Reading group
 
