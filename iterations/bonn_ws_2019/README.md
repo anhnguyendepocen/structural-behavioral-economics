@@ -90,6 +90,10 @@ Please see [here](https://github.com/HumanCapitalAnalysis/structural-behavioral-
 
 We discuss applied maximum likelihood estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
 
+**Student contribution(s)**
+
+* Gill, D., & Prowse, V. (2012). [A structural analysis of disappointment aversion in a real effort competition](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.102.1.469). *American Economic Review, 102*(1), 469-503.
+
 ### Week 8
 
 **Joint discussion**
