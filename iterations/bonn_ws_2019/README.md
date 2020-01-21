@@ -20,11 +20,11 @@ We meet Mondays between 14:15-15:45 in SR 0.017.
 |  7   | 18/11/19  | Maximum likelihood estimation                          |
 |  8   | 25/11/19  | Maximum likelihood estimation                          |
 |  9   | 02/12/19  | Maximum likelihood estimation                          |
-|  10  | 09/12/19  |                                                        |
-|  11  | 16/12/19  |                                                        |
-|  12  | 13/01/20  |                                                        |
-|  13  | 20/01/20  |                                                        |
-|  14  | 27/01/20  |                                                        |
+|  10  | 09/12/19  | Simulated method of moments estimation                 |
+|  11  | 16/12/19  | Simulated method of moments estimation                 |
+|  12  | 13/01/20  | Sensitivity analysis                                   |
+|  13  | 20/01/20  | High performance computing using Python                |
+|  14  | 27/01/20  | High performance computing using Python                |
 
 Please see [here](https://github.com/HumanCapitalAnalysis/structural-behavioral-economics/blob/master/iterations/bonn_ws_2019/00_course_overview.pdf) for a brief discussion of some administrative issues.
 
@@ -107,6 +107,36 @@ We continue to discuss applied maximum likelihood estimation using the `respy` p
 **Joint discussion**
 
 We continue to discuss applied maximum likelihood estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
+
+### Week 10
+
+**Joint discussion**
+
+We discuss the simulated method of moments estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
+
+### Week 11
+
+**Joint discussion**
+
+We discuss the simulated method of moments estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
+
+### Week 11
+
+**Sensitivity analysis**
+
+We discuss the use of sensitivity analysis in structural econometrics. The lecture is available [here](https://github.com/HumanCapitalAnalysis/talks/blob/master/selected-topics/02-sensitivity-analysis/slides.pdf).
+
+### Week 11
+
+**High performance computing using Python**
+
+We showcase the use of Python for high performance computing. The lecture is available [here](https://github.com/HumanCapitalAnalysis/talks/blob/master/selected-topics/03-high-performance-python/slides.pdf).
+
+### Week 12
+
+**High performance computing using Python**
+
+We showcase the use of Python for high performance computing. The lecture is available [here](https://github.com/HumanCapitalAnalysis/talks/blob/master/selected-topics/03-high-performance-python/slides.pdf).
 
 # Reading group
 
