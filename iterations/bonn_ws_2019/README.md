@@ -94,7 +94,7 @@ We discuss applied maximum likelihood estimation using the `respy` package. The 
 
 * Gill, D., & Prowse, V. (2012). [A structural analysis of disappointment aversion in a real effort competition](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.102.1.469). *American Economic Review, 102*(1), 469-503.
 
-### Week 8
+### Week 8 & 9
 
 **Joint discussion**
 
@@ -106,19 +106,7 @@ We continue to discuss applied maximum likelihood estimation using the `respy` p
 
 * Conlin, M., O'Donoghue, T., & Vogelsang, T. J. (2007). [Projection bias in catalog orders](https://msu.edu/~conlinmi/AER2007.pdf). *American Economic Review, 97*(4), 1217-1249.
 
-### Week 9
-
-**Joint discussion**
-
-We continue to discuss applied maximum likelihood estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
-
-### Week 10
-
-**Joint discussion**
-
-We discuss the simulated method of moments estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
-
-### Week 11
+### Week 10 & 11
 
 **Joint discussion**
 
@@ -130,13 +118,7 @@ We discuss the simulated method of moments estimation using the `respy` package.
 
 We discuss the use of sensitivity analysis in structural econometrics. The lecture is available [here](https://github.com/HumanCapitalAnalysis/talks/blob/master/selected-topics/02-sensitivity-analysis/slides.pdf).
 
-### Week 13
-
-**High performance computing using Python**
-
-We showcase the use of Python for high performance computing. The lecture is available [here](https://github.com/HumanCapitalAnalysis/talks/blob/master/selected-topics/03-high-performance-python/slides.pdf).
-
-### Week 14
+### Week 13 & 14
 
 **High performance computing using Python**
 
