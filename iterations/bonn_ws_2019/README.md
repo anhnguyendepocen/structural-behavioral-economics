@@ -124,19 +124,19 @@ We discuss the simulated method of moments estimation using the `respy` package.
 
 We discuss the simulated method of moments estimation using the `respy` package. The lecture is available [here](https://github.com/OpenSourceEconomics/respy-lectures).
 
-### Week 11
+### Week 12
 
 **Sensitivity analysis**
 
 We discuss the use of sensitivity analysis in structural econometrics. The lecture is available [here](https://github.com/HumanCapitalAnalysis/talks/blob/master/selected-topics/02-sensitivity-analysis/slides.pdf).
 
-### Week 11
+### Week 13
 
 **High performance computing using Python**
 
 We showcase the use of Python for high performance computing. The lecture is available [here](https://github.com/HumanCapitalAnalysis/talks/blob/master/selected-topics/03-high-performance-python/slides.pdf).
 
-### Week 12
+### Week 14
 
 **High performance computing using Python**
 
