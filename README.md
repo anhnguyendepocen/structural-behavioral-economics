@@ -6,7 +6,7 @@ We build the course around the recent chapter by [Stefano DellaVigna](https://em
 
 However, the focus will be on the implementation, exploration, and estimation of structural behavioral models. We will make heavy use of [Python](https://www.python.org), the [SciPy ecosystem](https://www.scipy.org) , and [Jupyter Notebooks](https://jupyter.org) throughout the course. We set up a proper software engineering workflow to ensure sound implementation and reproducibility building on [GitHub](https://github.com). Please see [here](https://github.com/HumanCapitalAnalysis/general-resources) for some introductory resources to each of the tools.
 
- For further information, please do not hesitate to [contact us](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY).
+ For further information, please do not hesitate to [contact us](https://hca.zulipchat.com/join/84tlhl1nmm4fke4dpg5mo74u/).
 
 ## Neoclassical baseline
 
